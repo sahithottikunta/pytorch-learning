@@ -27,3 +27,34 @@ Install the required Python libraries:
 
 ```bash
 pip install torch matplotlib notebook
+
+
+### Option 2: Install All at Once with requirements.txt
+
+If you prefer, use the pre-defined dependencies:
+pip install -r requirements.txt
+
+
+### Run the Notebooks
+
+After installing dependencies, launch Jupyter:
+jupyter notebook
+
+yaml
+
+## 🧠 What I Learned
+
+- Core operations in PyTorch (tensors, autograd, optimizers)
+- Building and training neural networks manually and with nn.Module
+- Visualizing activation functions and model predictions
+- Writing custom backward passes with autograd.Function
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Author: Ottikunta Sahith  
+Master’s Student in Computer Science @ Stevens Institute of Technology
+
